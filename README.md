@@ -23,12 +23,13 @@ This repository is divided into **five** parts for now:
 
 
 ## Contents(目录)
+
 <img  src="./Pictures/Contents.jpg">
 
 
 ## Thanks(鸣谢）
 
-- AI engineer of Netease cloud classroom (computer vision)
-- 网易云课堂AI工程师（计算机视觉）
-- alicloud certified Python data scientific analysis practice
-- 阿里云认证Python数据科学分析实战
+- [AI engineer of Netease cloud classroom (computer vision)](https://mooc.study.163.com/smartSpec/detail/1001457001.htm)
+- [网易云课堂AI工程师（计算机视觉）](https://mooc.study.163.com/smartSpec/detail/1001457001.htm)
+- [alicloud certified Python data scientific analysis practice](https://edu.aliyun.com/certification/clda02?spm=5176.11999222.1216634.65.582f5e9bt5DCdZ)
+- [阿里云认证Python数据科学分析实战](https://edu.aliyun.com/certification/clda02?spm=5176.11999222.1216634.65.582f5e9bt5DCdZ)
